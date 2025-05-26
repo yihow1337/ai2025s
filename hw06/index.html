@@ -154,7 +154,7 @@
   <!-- ------------------------------------------------>
   <div class="row hw12">
     <div class="col-md-12 twenty">
-      心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。心得報告 105 字。
+      這次的作業內容是利用 ComfyUI 來生成一個完整的角色動畫,跟hw05的流程基本上一樣是依照提示詞來生成圖片,但是hw06可以使生成的圖片拼接成gif的效果,也可以改變提示詞使最終gif的場景人物細節不太一樣,這次的作業也是十分的有趣。<br>
     </div>
   </div>
 
@@ -170,22 +170,22 @@
         </tr>
         <tr>
           <td rowspan="4" id="myTotal"></td>
-          <td><input type="checkbox" class="flipswitch" id="myCheckbox1"></td>
+          <td><input type="checkbox" class="flipswitch" id="myCheckbox1"checked></td>
           <td id='m1'>4</td>
           <td>Simple baseline - 描述</td>
         </tr>
         <tr>
-          <td><input type="checkbox" class="flipswitch" id="myCheckbox2"></td>
+          <td><input type="checkbox" class="flipswitch" id="myCheckbox2"checked></td>
           <td id='m2'>4</td>
           <td>Medium baseline - 描述</td>
         </tr>
         <tr>
-          <td><input type="checkbox" class="flipswitch" id="myCheckbox3"></td>
+          <td><input type="checkbox" class="flipswitch" id="myCheckbox3"checked></td>
           <td id='m3'>2</td>
           <td>Strong baseline - 描述</td>
         </tr>
         <tr>
-          <td><input type="checkbox" class="flipswitch" id="myCheckbox4" checked></td>
+          <td><input type="checkbox" class="flipswitch" id="myCheckbox4" ></td>
           <td id='m4'>-10</td>
           <td>沒有寫100字心得</td>
         </tr>
@@ -197,12 +197,50 @@
   <!-- ------------------------------------------------>
   <div class="row hw12 bottomrow">
     <div class="col-md-12 twenty">
-      <video id="video1" style="width:100%;max-width:100%;" controls="">
-        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-      </video>
+      <a href="https://civitai.com/models/4468/counterfeit-v30">Counterfeit-V3.0</a><br>
+      <a href="https://civitai.com/models/58390/detail-tweaker-lora-lora">Detail Tweaker LoRA (细节调整LoRA)</a><br> 
+       <td>1.Simple baseline - Comfy UI 環境設定完成</td><br>
+       <img src="1.png"  width="600" height="700"><br>
     </div>
   </div>
-
+  <div class="row hw12 bottomrow">
+    <div class="col-md-12 twenty">
+       <td>2.Medium baseline - 生成角色的圖片</td><br>
+       <img src="2.png"  width="500" height="600"><br>
+       <td> 使用提示詞:
+        "0": "early spring, floral skirt fluttering in the breeze, soft sunlight, pastel hair accessory, gentle smile",
+  "10": "spring morning, blooming flowers, flowy floral skirt, breeze lifting her hair, warm smile",
+  "20": "late spring day, vibrant floral skirt, wind tousling hair, delicate hairband, cheerful expression",
+  "30": "sunny summer day, light short-sleeved dress, wide-brimmed straw hat, bright sunshine",
+  "40": "mid-summer, breezy short dress, straw hat casting shade, relaxed afternoon mood",
+  "50": "hot summer day, airy short-sleeved dress, casual straw hat, golden sunlight",
+  "60": "cool autumn day, cozy knit sweater, fitted jeans, wind rustling fallen leaves",
+  "70": "crisp fall afternoon, warm sweater, slim jeans, swirling leaves, light breeze",
+  "80": "late fall, oversized sweater, skinny jeans, colorful fallen leaves in the wind",
+  "90": "chilly winter day, thick down jacket, knitted woolen hat, earmuffs, snowflakes falling gently",
+  "100": "midwinter, puffy jacket, woolen hat with pompom, ear muffs, snowy background",
+  "110": "snowy winter morning, cozy down coat, winter accessories, soft snowflakes in the air"</td>
+    </div>
+  </div>
+  <div class="row hw12 bottomrow">
+    <div class="col-md-12 twenty">
+       <td>3.Strong baseline - 生成完整角色動畫</td><br>
+       <img src="1.gif" ><br>
+       <td> 使用提示詞:
+        "0": "early spring, floral skirt fluttering in the breeze, soft sunlight, pastel hair accessory, gentle smile",
+  "10": "spring morning, blooming flowers, flowy floral skirt, breeze lifting her hair, warm smile",
+  "20": "late spring day, vibrant floral skirt, wind tousling hair, delicate hairband, cheerful expression",
+  "30": "sunny summer day, light short-sleeved dress, wide-brimmed straw hat, bright sunshine",
+  "40": "mid-summer, breezy short dress, straw hat casting shade, relaxed afternoon mood",
+  "50": "hot summer day, airy short-sleeved dress, casual straw hat, golden sunlight",
+  "60": "cool autumn day, cozy knit sweater, fitted jeans, wind rustling fallen leaves",
+  "70": "crisp fall afternoon, warm sweater, slim jeans, swirling leaves, light breeze",
+  "80": "late fall, oversized sweater, skinny jeans, colorful fallen leaves in the wind",
+  "90": "chilly winter day, thick down jacket, knitted woolen hat, earmuffs, snowflakes falling gently",
+  "100": "midwinter, puffy jacket, woolen hat with pompom, ear muffs, snowy background",
+  "110": "snowy winter morning, cozy down coat, winter accessories, soft snowflakes in the air"</td>
+    </div>
+  </div>
   <!-- ------------------------------------------------>
 
   <!-- ------------------------------------------------>
