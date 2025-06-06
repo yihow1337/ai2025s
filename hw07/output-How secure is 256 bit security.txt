@@ -1,0 +1,38 @@
+ 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用
+ 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 請用英文 
+ so that they can execute 4 billion hash per second.
+ So the first 4 billion represents the number of hash per second per computer.
+ Now imagine 4 billion of these computers equipped with GPUs.
+ As a comparison, even if Google does not make its number of servers public at all,
+ estimates are somewhere in the few millions.
+ And in reality, most of these servers are much less powerful than our imaginary machine full of GPUs.
+ But let's say that Google replaces its millions of servers with a machine like ours,
+ and then 4 billion machines would mean about 1000 copies of this super-Google.
+ Let's call it a kilo-Google of computing power.
+ There are about 7.3 billion people on Earth.
+ So let's imagine that we give a personal kilo-Google to a little more than half of each individual on Earth.
+ Now let's say there are 4 billion copies of this planet Earth.
+ As a comparison, the Milky Way has between 100 and 400 billion stars.
+ We do not know the exact number, but it is a good estimate.
+ This would mean that 1% of each star in the galaxy is a copy of the Earth,
+ and that half of the inhabitants of the Earth is their own personal kilo-Google.
+ Then let's imagine 4 billion copies of the Milky Way.
+ This is what we will call the super-Gigagalactic calculator, which does about 2 power 160 tests per second.
+ And 4 billion seconds is about 126.8 years.
+ 4 billion of them, that's 507 billion years, or about 37 times the age of the universe.
+ So even with kilo-Googles filled with GPUs for each inhabitant of each planet of each galaxy,
+ the gigagalactic computer that tries to guess the H for 37 times the age of the universe,
+ it would only have one chance out of 4 billion to find the right answer.
+ Moreover, the current capacity of H of all the miners of Bitcoin put together is about 5 billion billion HH per second.
+ This corresponds to about 1 third of a kilo-Google.
+ And it's not because there are billions of GPU-equipped machines,
+ but because miners actually use something that is about a thousand times more efficient than a GPU,
+ integrated circuits called Application-Specific Integrated Circuits.
+ These are integrated circuits specifically designed for mining Bitcoin to execute a bunch of HH SHA-256 and nothing else.
+ And it turns out that there is a lot of efficiency gain to be achieved when you reject the need for general calculation
+ and that you design integrated circuits for a single and unique task.
+ On the theme of the great powers of two that I personally have trouble understanding,
+ this channel has recently exceeded the two 18-subscribers.
+ And to interact a little more with a part of these two 18-subscribers, I'm going to do a Q&A session.
+ I put a link in the description to a Reddit discussion where you can post questions and vote out the ones you want to hear the answers.
+ And in the next video or on Twitter, I will announce the format in which I would like to give the answers.
